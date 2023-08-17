@@ -1,2 +1,2 @@
-New Branch 
 
+Basics of Git and Github updated 
